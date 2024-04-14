@@ -9,3 +9,5 @@ grade:
     grade: H
   - subject: Science
     grade: H-
+  - subject: Computer
+    grade: H+
